@@ -1,0 +1,8 @@
+package com.ead.course.configs;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class ResolverConfig {
+
+}
